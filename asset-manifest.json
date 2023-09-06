@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/brokers/static/css/main.03f3405d.css",
-    "main.js": "/brokers/static/js/main.849cb25d.js",
-    "static/js/723.2ff03c33.chunk.js": "/brokers/static/js/723.2ff03c33.chunk.js",
+    "main.js": "/brokers/static/js/main.2b9c4c17.js",
+    "static/js/723.e3824cae.chunk.js": "/brokers/static/js/723.e3824cae.chunk.js",
     "static/js/597.db767792.chunk.js": "/brokers/static/js/597.db767792.chunk.js",
     "static/js/564.4e5de073.chunk.js": "/brokers/static/js/564.4e5de073.chunk.js",
     "static/js/582.95adb8be.chunk.js": "/brokers/static/js/582.95adb8be.chunk.js",
-    "static/js/989.021dcdc3.chunk.js": "/brokers/static/js/989.021dcdc3.chunk.js",
+    "static/js/989.c7828639.chunk.js": "/brokers/static/js/989.c7828639.chunk.js",
     "static/js/411.b0c41bbe.chunk.js": "/brokers/static/js/411.b0c41bbe.chunk.js",
     "static/js/81.fe71f007.chunk.js": "/brokers/static/js/81.fe71f007.chunk.js",
     "static/js/970.6d340f13.chunk.js": "/brokers/static/js/970.6d340f13.chunk.js",
@@ -15,7 +15,7 @@
     "static/js/599.b28a16c1.chunk.js": "/brokers/static/js/599.b28a16c1.chunk.js",
     "static/js/627.768d9b9d.chunk.js": "/brokers/static/js/627.768d9b9d.chunk.js",
     "static/js/404.3e35433e.chunk.js": "/brokers/static/js/404.3e35433e.chunk.js",
-    "static/js/39.dbcaa9e0.chunk.js": "/brokers/static/js/39.dbcaa9e0.chunk.js",
+    "static/js/39.8fb9c550.chunk.js": "/brokers/static/js/39.8fb9c550.chunk.js",
     "static/js/444.5b8f640d.chunk.js": "/brokers/static/js/444.5b8f640d.chunk.js",
     "static/js/200.faff8230.chunk.js": "/brokers/static/js/200.faff8230.chunk.js",
     "static/js/231.bec37638.chunk.js": "/brokers/static/js/231.bec37638.chunk.js",
@@ -42,8 +42,8 @@
     "static/js/45.1d42ca53.chunk.js": "/brokers/static/js/45.1d42ca53.chunk.js",
     "static/js/310.b8b1caea.chunk.js": "/brokers/static/js/310.b8b1caea.chunk.js",
     "static/js/373.a4282d4c.chunk.js": "/brokers/static/js/373.a4282d4c.chunk.js",
-    "static/js/72.7e25bb5e.chunk.js": "/brokers/static/js/72.7e25bb5e.chunk.js",
-    "static/js/85.d5092399.chunk.js": "/brokers/static/js/85.d5092399.chunk.js",
+    "static/js/72.84c8cdbd.chunk.js": "/brokers/static/js/72.84c8cdbd.chunk.js",
+    "static/js/85.75ada4ea.chunk.js": "/brokers/static/js/85.75ada4ea.chunk.js",
     "static/media/Roobert-Regular.ttf": "/brokers/static/media/Roobert-Regular.f767911d84d7dd142987.ttf",
     "static/media/bnb.png": "/brokers/static/media/bnb.27f54c9b112c188df5b5.png",
     "static/media/RecklessNeue-Light.ttf": "/brokers/static/media/RecklessNeue-Light.4abdd428510514e3ef51.ttf",
@@ -88,12 +88,12 @@
     "static/media/tables.svg": "/brokers/static/media/tables.abe15d2217b50583f0d61302e5b163e2.svg",
     "static/media/moon.svg": "/brokers/static/media/moon.8ded8a20e315c442034f6e3d8804fcda.svg",
     "main.03f3405d.css.map": "/brokers/static/css/main.03f3405d.css.map",
-    "main.849cb25d.js.map": "/brokers/static/js/main.849cb25d.js.map",
-    "723.2ff03c33.chunk.js.map": "/brokers/static/js/723.2ff03c33.chunk.js.map",
+    "main.2b9c4c17.js.map": "/brokers/static/js/main.2b9c4c17.js.map",
+    "723.e3824cae.chunk.js.map": "/brokers/static/js/723.e3824cae.chunk.js.map",
     "597.db767792.chunk.js.map": "/brokers/static/js/597.db767792.chunk.js.map",
     "564.4e5de073.chunk.js.map": "/brokers/static/js/564.4e5de073.chunk.js.map",
     "582.95adb8be.chunk.js.map": "/brokers/static/js/582.95adb8be.chunk.js.map",
-    "989.021dcdc3.chunk.js.map": "/brokers/static/js/989.021dcdc3.chunk.js.map",
+    "989.c7828639.chunk.js.map": "/brokers/static/js/989.c7828639.chunk.js.map",
     "411.b0c41bbe.chunk.js.map": "/brokers/static/js/411.b0c41bbe.chunk.js.map",
     "81.fe71f007.chunk.js.map": "/brokers/static/js/81.fe71f007.chunk.js.map",
     "970.6d340f13.chunk.js.map": "/brokers/static/js/970.6d340f13.chunk.js.map",
@@ -102,7 +102,7 @@
     "599.b28a16c1.chunk.js.map": "/brokers/static/js/599.b28a16c1.chunk.js.map",
     "627.768d9b9d.chunk.js.map": "/brokers/static/js/627.768d9b9d.chunk.js.map",
     "404.3e35433e.chunk.js.map": "/brokers/static/js/404.3e35433e.chunk.js.map",
-    "39.dbcaa9e0.chunk.js.map": "/brokers/static/js/39.dbcaa9e0.chunk.js.map",
+    "39.8fb9c550.chunk.js.map": "/brokers/static/js/39.8fb9c550.chunk.js.map",
     "444.5b8f640d.chunk.js.map": "/brokers/static/js/444.5b8f640d.chunk.js.map",
     "200.faff8230.chunk.js.map": "/brokers/static/js/200.faff8230.chunk.js.map",
     "231.bec37638.chunk.js.map": "/brokers/static/js/231.bec37638.chunk.js.map",
@@ -129,11 +129,11 @@
     "45.1d42ca53.chunk.js.map": "/brokers/static/js/45.1d42ca53.chunk.js.map",
     "310.b8b1caea.chunk.js.map": "/brokers/static/js/310.b8b1caea.chunk.js.map",
     "373.a4282d4c.chunk.js.map": "/brokers/static/js/373.a4282d4c.chunk.js.map",
-    "72.7e25bb5e.chunk.js.map": "/brokers/static/js/72.7e25bb5e.chunk.js.map",
-    "85.d5092399.chunk.js.map": "/brokers/static/js/85.d5092399.chunk.js.map"
+    "72.84c8cdbd.chunk.js.map": "/brokers/static/js/72.84c8cdbd.chunk.js.map",
+    "85.75ada4ea.chunk.js.map": "/brokers/static/js/85.75ada4ea.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.03f3405d.css",
-    "static/js/main.849cb25d.js"
+    "static/js/main.2b9c4c17.js"
   ]
 }
